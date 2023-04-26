@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="515.0" prefWidth="662.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Text fill="#1b1512" layoutX="39.0" layoutY="40.0" strokeType="OUTSIDE" strokeWidth="0.0" text="AHOJ, AK TOTO ČÍTAŠ, OSLAVUJEME 3. VÝROČIE" textAlignment="CENTER" wrappingWidth="584.69140625">
+         <font>
+            <Font name="System Bold Italic" size="24.0" />
+         </font>
+      </Text>
+      <TextField layoutX="36.0" layoutY="123.0" text="DD.MM.YYYY" />
+      <Text layoutX="39.0" layoutY="118.0" strokeType="OUTSIDE" strokeWidth="0.0" text="ZADAJ DÁTUM VÝROČIA">
+         <font>
+            <Font size="13.0" />
+         </font>
+      </Text>
+   </children>
+</AnchorPane>
